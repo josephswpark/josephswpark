@@ -18,12 +18,10 @@ I am a full-stack Software Engineer located in Orange County, California. I love
   </a>
 </p>
 
-
-
 <h2>✨ Fun Facts</h2>   
-<div>👾 </div>
-  <div>🎨 </div>
-<div>🤘🏻</div>
+<div>🏀 I love playing & watching basketball! Go Lakers!</div>
+<div>⚾ I love playing & watching baseball as well. Go Dodgers!</div>
+<div>👟 I am a huge sneakerhead</div>
   
 <h2>🤝 Let's Connect</h2> 
 <p>
@@ -31,9 +29,6 @@ I am a full-stack Software Engineer located in Orange County, California. I love
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-
- 
-
   
 <!---
 josephswpark/josephswpark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
