@@ -15,6 +15,6 @@ You can click the Preview link to take a look at your changes.
 
  <h2>⚡Technologies</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,postgres,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,node,vscode,figma)](https://skillicons.dev)
 
   
