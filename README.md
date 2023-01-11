@@ -7,7 +7,7 @@ I am a full-stack Software Engineer located in Orange County, California. I love
 </div>
 <br/>
 <div>
-• 🌱 I'm currently learning <b>React</b><br/>
+• 🌱 I'm currently working on my <b>final project</b><br/>
 • 📧 <a href="mailto:parkjoseph54@gmail.com"> parkjoseph54@gmail.com</a> <br/>
 </div>
 
