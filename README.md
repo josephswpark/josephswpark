@@ -14,7 +14,7 @@ I am a full-stack Software Engineer located in Orange County, California. I love
  <h2>⚡Technologies</h2>
   <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,vscode,figma,docker" />
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,vscode,figma,docker" />
   </a>
 </p>
 
