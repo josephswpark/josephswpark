@@ -3,7 +3,7 @@
  </h2>
 
 <div>
-I am a full-stack Software Engineer located in Orange County, California. I love that I get challenged everyday to learn new things and for my brain to stimulated with logical and critical thinking in problem solving! I am learning that there is sooo much more to learn as I learn and practice coding 😱. 
+I am a full-stack Software Engineer located in Orange County, California. I love that I get challenged everyday to learn new things and for my brain to be stimulated with logical and critical thinking in problem solving! I enjoy the fact that there is sooo much more to learn as I code 😱. 
 </div>
 <br/>
 <div>
